@@ -1,0 +1,1 @@
+The ClickCounter iOS app is, as the name say, a counter of how many times a user clicks on a button. This was created merely to gain an understanding of Apple's UIkit package and its functions and methods. It was created in accordance with the Udacity's iOS Developer Nanodegree course content. 
